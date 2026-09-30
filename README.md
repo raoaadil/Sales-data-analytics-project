@@ -1,8 +1,9 @@
+
 # Sales Data Analytics Project
 
 ## Project Overview
 
-This project is about working with sales data from start to finish. I used Python to clean and prepare the data, MySQL for analysis, and Power BI to create an interactive dashboard.
+This project is about working with sales data from start to finish. I used Python to clean the data, MySQL to analyze it, and Power BI to create an interactive dashboard.
 
 ## Tools Used
 
@@ -22,17 +23,17 @@ This project is about working with sales data from start to finish. I used Pytho
 
 ### 2. Data Cleaning
 
-Cleaned the data using Python, Pandas, and NumPy by:
+I cleaned the data using Python, Pandas, and NumPy.
 
-- Handling missing values
-- Removing duplicate records
-- Fixing data types
-- Standardizing the data
-- Preparing the data for analysis
+- Handled missing values
+- Removed duplicate records
+- Fixed data types
+- Standardized the data
+- Prepared the data for analysis
 
 ### 3. Data Analysis
 
-Used MySQL queries to analyze:
+I used MySQL queries to look at:
 
 - Total sales
 - Monthly revenue
@@ -42,12 +43,12 @@ Used MySQL queries to analyze:
 
 ### 4. Power BI Dashboard
 
-Created an interactive dashboard with:
+I created an interactive dashboard to show:
 
 - Sales KPIs
 - Revenue trends
 - Product performance
-- Regional analysis
+- Regional sales
 - Customer insights
 
 ## Key Insights
@@ -76,19 +77,26 @@ Sales-Data-Analytics-Project/
 │   └── sales_dashboard.pbix
 │
 └── README.md
+````
 
-Skills Used
-Data Cleaning
-Exploratory Data Analysis
-SQL
-Data Visualization
-Power BI
-Business Analysis
-Future Improvements
-Add more SQL analysis
-Add sales prediction
-Improve the Power BI dashboard
-Automate the data cleaning process
-Author
+## Skills Used
+
+* Data Cleaning
+* Exploratory Data Analysis
+* SQL
+* Data Visualization
+* Power BI
+* Business Analysis
+
+## Future Improvements
+
+* Add more SQL analysis
+* Add sales prediction
+* Improve the Power BI dashboard
+* Automate the data cleaning process
+
+## Author
 
 Rao Aadil
+
+
