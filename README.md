@@ -1,60 +1,65 @@
-Sales Data Analytics Project
+# Sales Data Analytics Project
 
-Project Overview:
-This project demonstrates an end-to-end data analytics workflow using messy sales data.
-The dataset was cleaned and transformed using Python libraries like NumPy and Pandas, analyzed using MySQL, and visualized through an interactive Power BI dashboard.
+## Project Overview
 
-The goal of this project is to showcase practical data analytics skills including:
- - Data Cleaning
- - Data Transformation
- - SQL Analysis
- - Data Visualization
- - Business Insights Generation
+This project is about working with sales data from start to finish. I used Python to clean and prepare the data, MySQL for analysis, and Power BI to create an interactive dashboard.
 
-Tools & Technologies Used:
- - Python
- - Pandas
- - NumPy
- - MySQL
- - Power BI
- - Jupyter Notebook
+## Tools Used
 
-Project Workflow:
-1. Data Generation & Collection
- - Generated messy sales dataset for practice.
- - Included missing values, duplicate records, inconsistent formats, and incorrect entries.
+- Python
+- Pandas
+- NumPy
+- MySQL
+- Power BI
+- Jupyter Notebook
 
-2. Data Cleaning using Python
-Performed:
- - Handling missing values
- - Removing duplicates
- - Standardizing column formats
- - Fixing data types
- - Data preprocessing using Pandas and NumPy
+## Project Workflow
 
-3. Data Analysis using MySQL
-Performed SQL queries for:
- - Total Sales Analysis
- - Monthly Revenue Trends
- - Top Selling Products
- - Customer Insights
- - Regional Performance Analysis
+### 1. Data Collection
 
-4. Dashboard Creation using Power BI
-Built an interactive dashboard containing:
- - Sales KPIs
- - Revenue Trends
- - Product Performance
- - Regional Analysis
- - Customer Insights
+- Created a sales dataset for practice
+- Added missing values, duplicate records, inconsistent formats, and incorrect entries
 
-Key Insights:
- - Identified top-performing products and regions
- - Analyzed monthly sales growth trends
- - Found customer purchasing patterns
- - Compared regional sales performance
+### 2. Data Cleaning
 
-Project Structure:
+Cleaned the data using Python, Pandas, and NumPy by:
+
+- Handling missing values
+- Removing duplicate records
+- Fixing data types
+- Standardizing the data
+- Preparing the data for analysis
+
+### 3. Data Analysis
+
+Used MySQL queries to analyze:
+
+- Total sales
+- Monthly revenue
+- Top-selling products
+- Customer data
+- Regional sales performance
+
+### 4. Power BI Dashboard
+
+Created an interactive dashboard with:
+
+- Sales KPIs
+- Revenue trends
+- Product performance
+- Regional analysis
+- Customer insights
+
+## Key Insights
+
+- Found the top-performing products and regions
+- Compared monthly sales and revenue
+- Looked at customer purchasing patterns
+- Compared sales across different regions
+
+## Project Structure
+
+```text
 Sales-Data-Analytics-Project/
 │
 ├── data/
@@ -72,20 +77,18 @@ Sales-Data-Analytics-Project/
 │
 └── README.md
 
-Skills Demonstrated:
- - Data Cleaning
- - Exploratory Data Analysis (EDA)
- - SQL Query Writing
- - Data Visualization
- - Business Intelligence
- - Problem Solving
-
-Future Improvements:
- - Add advanced SQL queries
- - Perform predictive sales analysis
- - Deploy dashboard online
- - Automate ETL pipeline
-
+Skills Used
+Data Cleaning
+Exploratory Data Analysis
+SQL
+Data Visualization
+Power BI
+Business Analysis
+Future Improvements
+Add more SQL analysis
+Add sales prediction
+Improve the Power BI dashboard
+Automate the data cleaning process
 Author
-Rao Aadil
 
+Rao Aadil
